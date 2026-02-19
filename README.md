@@ -18,3 +18,16 @@ This project predicts diabetes risk using medical attributes. Logistic Regressio
 - ROC-AUC Score: 81.3%
 # Key  Insight
 Glucose level is the strongest predictor of diabetes.
+# Logistic Regression (Balanced)
+- Accuracy: 77.9%
+- Precision (Class 1): 0.72
+- Recall (Class 1): 0.61
+- F1-Score (Class 1): 0.66
+ # Random Forest
+- Accuracy: ~74%
+- Better handling of non-linear patterns
+- Slightly lower performance compared to Logistic Regression in this dataset
+# Final Conclusion
+Logistic Regression with class balancing performed better than Random Forest in terms of overall accuracy and F1-score.
+
+Since this is a medical dataset, recall for diabetic patients (Class 1) is important. Further turning can improve performance.
