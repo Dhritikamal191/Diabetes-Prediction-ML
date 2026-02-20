@@ -38,4 +38,4 @@ Since this is a medical dataset, recall for diabetic patients (Class 1) is impor
 |---------------------|----------|
 | Logistic Regression | 0.77     |
 | Random Forest       | 0.78     |
-Random Forest performed better in predicting diabetic patients.
+-Random Forest performed better in predicting diabetic patients.
