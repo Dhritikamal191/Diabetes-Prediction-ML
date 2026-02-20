@@ -33,3 +33,9 @@ Logistic Regression with class balancing performed better than Random Forest in 
 Since this is a medical dataset, recall for diabetic patients (Class 1) is important. Further turning can improve performance.
 ## Confusion Matrix
 ![Confusion_Matrix](confusion_matrix.png)
+## Model Comparison
+|       Model         | Accuracy |
+|---------------------|----------|
+| Logistic Regression | 0.77     |
+| Random Forest       | 0.78     |
+Random Forest performed better in predicting diabetic patients.
