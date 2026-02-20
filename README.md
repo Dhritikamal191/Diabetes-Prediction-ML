@@ -31,3 +31,5 @@ Glucose level is the strongest predictor of diabetes.
 Logistic Regression with class balancing performed better than Random Forest in terms of overall accuracy and F1-score.
 
 Since this is a medical dataset, recall for diabetic patients (Class 1) is important. Further turning can improve performance.
+## Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
